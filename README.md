@@ -1,4 +1,4 @@
-# Hebb_rule
+# One layer perceptron
 implementation of One Layer Perceptron algorithm in python
 
 
