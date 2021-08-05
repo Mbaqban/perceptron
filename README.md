@@ -41,4 +41,6 @@ in this case our output laye has 3 neuron that should match with this classes
      "J": [1, 1, -1],
      "K": [1, 1, 1],
 }
+
+PNN = Perceptron(63, 3, Sampels, Classes, lr=0.0007, teta=15)
 ```
