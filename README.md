@@ -23,7 +23,7 @@ Classes = {
 
 PNN = Perceptron(63, 7, Sampels, Classes, lr=0.0007, teta=15)
 print(PNN.train())
-M1.test()
+PNN.test()
 
 
 ```
